@@ -72,7 +72,3 @@ Make sure the `best.pt` model file is in the root directory, then run:
 python app.py
 ```
 A local link (e.g., `http://127.0.0.1:7860`) will appear in your terminal. Click it to open the GUI in your browser.
-
----
-
-```
