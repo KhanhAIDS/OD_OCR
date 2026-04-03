@@ -1,0 +1,9 @@
+path: ./dataset
+train: train/images
+val: val/images
+
+nc: 3
+names:
+  0: PartDrawing
+  1: Table
+  2: Note
